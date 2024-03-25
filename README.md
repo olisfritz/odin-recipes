@@ -1,0 +1,1 @@
+I am currently working on an HTML exercise where I'll be making a basic website, showcasing everything that I've learned so far in the "HTML Basics" course. I am also testing myself if I retained good enough information on how to properly use GitHub.
